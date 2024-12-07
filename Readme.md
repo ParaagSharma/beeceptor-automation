@@ -1,6 +1,6 @@
 # Beeceptor Proxy Automation Script
 
-Automates the process of creating a proxy or callback in Beeceptor. This script uses Playwright to log in to the Beeceptor console, configure proxy settings, and save the configuration based on specified parameters.
+Automates the process of creating a proxy or callout in Beeceptor. This script uses Playwright to log in to the Beeceptor console, configure proxy settings, and save the configuration based on specified parameters.
 
 ## Features
 
