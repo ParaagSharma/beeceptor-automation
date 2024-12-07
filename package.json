@@ -1,0 +1,16 @@
+{
+  "name": "beeceptor-automation",
+  "version": "1.0.0",
+  "description": "Automates the process of creating a proxy or callback in Beeceptor. This script uses Playwright to log in to the Beeceptor console, configure proxy settings, and save the configuration based on specified parameters.",
+  "main": "automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.0"
+  }
+}

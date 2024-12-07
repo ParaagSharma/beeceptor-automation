@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+
+# Optional npm cache directory
+.npm/
+
+# Package-lock, yarn.lock, and package.json logs
+package-lock.json
